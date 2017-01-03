@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Player>
+  <SpriteSheets>
+    <SpriteSheet>
+      <Path>Images/PlayerSpritesheets/PlayerIdle</Path>
+      <ImageEffect>SpriteSheetEffect</ImageEffect>
+      <Effects>SpriteSheetEffect</Effects>
+      <Name>Idle</Name>
+      <NrColumns>5</NrColumns>
+      <NrRows>2</NrRows>
+      <NrFrames>10</NrFrames>
+      <AnimationSpeed>100</AnimationSpeed>
+    </SpriteSheet>
+    <SpriteSheet>
+      <Path>Images/PlayerSpritesheets/PlayerWalkRight</Path>
+      <ImageEffect>SpriteSheetEffect</ImageEffect>
+      <Effects>SpriteSheetEffect</Effects>
+      <Name>WalkRight</Name>
+      <NrColumns>5</NrColumns>
+      <NrRows>3</NrRows>
+      <NrFrames>15</NrFrames>
+      <AnimationSpeed>50</AnimationSpeed>
+    </SpriteSheet>
+  </SpriteSheets>
+  <MoveSpeed>100</MoveSpeed>
+</Player>
